@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 # WEB_SERVER must be unique for local private network
 WEB_SERVER = "192.168.3.22"
 # WEB_HOSTNAME must match ./group_vars/vagrant domains setting
-WEB_HOSTNAME = "chelsea.local"
+WEB_HOSTNAME = "fandango.local"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 

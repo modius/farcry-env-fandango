@@ -1,6 +1,6 @@
 ---
   # website variables
-  farcry_repository: https://github.com/farcrycore/project-chelsea.git
+  farcry_repository: https://github.com/farcrycore/project-fandango.git
   farcry_branch: "master"
   farcry_fcscript: install/deploy.txt
   farcry_path: /opt/www
@@ -25,4 +25,4 @@
 
   log_sync_directory: ""
 
-  web_root: /opt/www/projects/chelsea/www
+  web_root: /opt/www/projects/fandango/www
